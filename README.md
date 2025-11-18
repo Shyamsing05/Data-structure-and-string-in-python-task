@@ -1,2 +1,2 @@
 # Data-structure-and-string-in-python-task
-I have complted assigment 5
+I have completed assigment 5
